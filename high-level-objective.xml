@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T14:12:49.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="bMGfddD_94K7et7MCkW_" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T14:16:35.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="F9__om9Gq7QZq1Obymu3" version="14.1.9" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2172" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="Hp_Mr3yACu7K_8uOs1mN-51" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-792.5" y="330" width="82.5" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Hp_Mr3yACu7K_8uOs1mN-52" value="Internal" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Hp_Mr3yACu7K_8uOs1mN-52" value="Dev" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-764.5" y="367.5" width="25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Hp_Mr3yACu7K_8uOs1mN-57" value="AD" style="triangle;whiteSpace=wrap;html=1;fillColor=none;direction=north;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
@@ -102,7 +102,7 @@
         <mxCell id="Hp_Mr3yACu7K_8uOs1mN-69" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;strokeColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="-545" y="340" width="305" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hp_Mr3yACu7K_8uOs1mN-75" value="Ops" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;dashPattern=1 1;strokeColor=#3333FF;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Hp_Mr3yACu7K_8uOs1mN-75" value="kubectl" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;dashPattern=1 1;strokeColor=#3333FF;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-766" y="417.5" width="29.51" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hp_Mr3yACu7K_8uOs1mN-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hp_Mr3yACu7K_8uOs1mN-77" target="Hp_Mr3yACu7K_8uOs1mN-78">
@@ -128,7 +128,7 @@
         </mxCell>
         <mxCell id="Hp_Mr3yACu7K_8uOs1mN-91" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Hp_Mr3yACu7K_8uOs1mN-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-730" y="438" as="sourcePoint" />
+            <mxPoint x="-710" y="438" as="sourcePoint" />
             <mxPoint x="-660" y="438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -143,6 +143,12 @@
         </mxCell>
         <mxCell id="Hp_Mr3yACu7K_8uOs1mN-101" value="&lt;span&gt;Service D&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-150" y="720" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp_Mr3yACu7K_8uOs1mN-103" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-128.png;dashed=1;dashPattern=1 1;strokeColor=#3333FF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="405" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp_Mr3yACu7K_8uOs1mN-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/miu-social/60/github-social-media-128.png;dashed=1;dashPattern=1 1;strokeColor=#3333FF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-736.49" y="350" width="28" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
